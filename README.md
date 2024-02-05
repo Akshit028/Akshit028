@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshit Solanki
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning IT engineering 3rd year
+- 🌱 I’m currently learning IT engineering 4th year
 - 💞️ I’m looking to collaborate on projects and internships
 - 📫 How to reach me ...
 - Instagram : akshit_solanki26
