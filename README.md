@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">I'm a 22-year-old developer based in India, and I'm passionate about crafting digital experiences.</p>
 
 ###
 
-<p align="left">- 👋 Hi, I’m Akshit Solanki<br>- 👀 I’m interested in Web Developing<br>- 🌱 I’m currently learning IT engineering 4th year<br>- 💞️ I’m looking to collaborate on projects and internships<br>- 📫 How to reach me ...<br>- Instagram : akshit_solanki26<br>- Gmail : solankiakii28@gmail.com</p>
+<p align="left">- 👀 I’m interested in Web Developing<br>- 🌱 I’m currently learning IT engineering 4th year<br>- 💞️ I’m looking to collaborate on projects and internships<br>- 📫 How to reach me ... <br>-https://bento.me/akshit-solanki</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">📦 Toolbox</h2>
 
 ###
 
