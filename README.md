@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Akshit, A Full Stack Developer 👋🏼:
+# Hello, I'm Akshit, A Full Stack Developer 👋🏼:
 🛜 Currently working on my own [webpage](https://akshitsolanki.vercel.app/)<br>👨🏼‍🎓 Recently graduated from Mumbai University, India
 
 
